@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Application – Firebase</string>
+    <string name="msg1">Enter Your ID</string>
+    <string name="msg2">Enter Your Name</string>
+    <string name="msg3">Enter Your Address</string>
+    <string name="msg4">Enter Your Contact Number</string>
+    <string name="save">SAVE</string>
+    <string name="show">SHOW</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+</resources>
